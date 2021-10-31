@@ -1,5 +1,4 @@
-**Author: Zhao Zeming**
-**ID: G2102239J**
+
 
 
 ## 1. Disparity computing procedure
