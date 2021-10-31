@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: 欢迎来到我的主页！
+author: 贼贼明
+email: raychiu0220@gmail.com
+       zez001@ucsd.edu
+       
+description: > # this means to ignore newlines until "baseurl:"
+  这个人很懒 没有简介
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
