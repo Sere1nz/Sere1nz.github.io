@@ -119,9 +119,6 @@ plt.imshow(result_0_10_16,'gray',vmin=0,vmax=20)
 
 
 
-    <matplotlib.image.AxesImage at 0x22dd914d550>
-
-
 
 
     
@@ -143,7 +140,6 @@ plt.imshow(result_0_6_20,'gray',vmin=0,vmax=20)
 
 
 
-    <matplotlib.image.AxesImage at 0x22dd9e27100>
 
 
 
@@ -258,7 +254,6 @@ plt.imshow(result_1_12_24,'gray',vmin=0,vmax=25)
 
 
 
-    <matplotlib.image.AxesImage at 0x22ddc1625b0>
 
 
 
