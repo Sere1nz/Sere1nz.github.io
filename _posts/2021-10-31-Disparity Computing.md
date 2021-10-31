@@ -98,8 +98,6 @@ plt.imshow(result_0_6_16,'gray',vmin=0,vmax=20)
 
 
 
-    <matplotlib.image.AxesImage at 0x22dd9c59550>
-
 
 
 
