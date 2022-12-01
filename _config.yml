@@ -3,10 +3,10 @@ author: 贼贼明
 email: raychiu0220@gmail.com
        
 description: > # this means to ignore newlines until "baseurl:"
-  这个人很懒 没有简介
+  Graduated from Nanyang Technological University
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: nope # DO NOT include the @ character, or else the build will fail!
+github_username:  https://github.com/Sere1nz # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
