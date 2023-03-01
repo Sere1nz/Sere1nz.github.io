@@ -9,5 +9,5 @@ twitter_username: nope # DO NOT include the @ character, or else the build will 
 github_username:  https://github.com/Sere1nz # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
