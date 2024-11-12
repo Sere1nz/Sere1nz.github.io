@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Zeming Zhao"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "./assets/images/bio_photo.jpg"
   bio              : ""
   location         : "China"
   email            : "raychiu0220@gmail.com"
