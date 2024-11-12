@@ -108,7 +108,7 @@ author:
   avatar           : "./assets/images/bio_photo.jpg"
   bio              : "AI Related"
   location         : "China"
-  email            : ""
+  #email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
