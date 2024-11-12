@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "raychiu0220@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -282,7 +282,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: all
     values:
       layout: single
       author_profile: true
