@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Zeming Zhao"
   avatar           : "./assets/images/bio_photo.jpg"
-  bio              : ""
+  bio              : "AI Related"
   location         : "China"
-  email            : "raychiu0220@gmail.com"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
