@@ -108,11 +108,11 @@ author:
   avatar           : "./assets/images/bio_photo.jpg"
   bio              : "AI Related"
   location         : "China"
-  #email            : ""
+  email            : "raychiu0220@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "raychiu0220@gmail.com"
+      #url: "raychiu0220@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
